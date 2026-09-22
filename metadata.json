@@ -1,0 +1,6 @@
+{
+  "name": "EMUC-EAD (Escola de Música do Cariri)",
+  "description": "Plataforma de ensino musical da EMUC-EAD (Escola de Música do Cariri): teoria musical completa (Inicial, Média e Avançada), afinador em tempo real por microfone, trompete mecânico e piano com atalhos de PC, simulador de embocadura (Lip Slurs), sistema ABC (A=Lá=1), exercícios práticos e editor de partituras.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
